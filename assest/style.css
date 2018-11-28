@@ -90,26 +90,30 @@ font-family: 'Oswald', sans-serif;
 }
 
 .img-responsive {
+
+    border-radius: 50%;
     max-width: 100%;
     max-height: 100%;
     padding-left: 30px;
-    padding-top: 10px
-    
+    padding-top: 10px 
+        
 }
 
 h1 {
     text-align: center;
 }
 
-.project1 {
+#project1 {
     max-width: 100%;
     max-height: 100%;
+    border-radius: 50%;
   
 }
 
-.project2 {
+#project2 {
     max-width: 100%;
     max-height: 100%;
+    
 }
 
 
@@ -128,4 +132,4 @@ h1 {
         background:black;
     }
     
-    }
+    } */
