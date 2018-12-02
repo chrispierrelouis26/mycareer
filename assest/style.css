@@ -91,7 +91,7 @@ font-family: 'Oswald', sans-serif;
 
 .img-responsive {
 
-    
+    border-radius: 50%;
     max-width: 100%;
     max-height: 100%;
     padding-left: 30px;
