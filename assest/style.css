@@ -22,6 +22,9 @@ html, body {
     margin-top: 50px;
     background-size: cover;
     background-repeat: no-repeat;
+    mask-image: url(‘mask.png’) linear-gradient(-45deg,
+    rgba(0,0,0,1) 20%, rgba(0,0,0,0) 50%);
+mask-image: url(#masking); 
 }
 
 
